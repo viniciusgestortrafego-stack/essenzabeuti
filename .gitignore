@@ -1,0 +1,8 @@
+# Este repositório guarda só o site da Essenza.
+# O resto da pasta (outros clientes, planilha com custos, configs locais) fica fora.
+/*
+!/index.html
+!/assets
+!/vercel.json
+!/.vercelignore
+!/.gitignore

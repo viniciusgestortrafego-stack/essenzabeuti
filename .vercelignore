@@ -1,0 +1,5 @@
+# Publica só o site da Essenza; o resto da pasta (outros clientes, planilha com custos, configs) fica fora.
+/*
+!/index.html
+!/assets
+!/vercel.json
